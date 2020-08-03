@@ -75,7 +75,6 @@ def game_hash
         assists: 1,
         steals: 2,
         blocks: 7,
-        binding.pry
         slam_dunks: 2
         }, 
         {
